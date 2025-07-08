@@ -5,7 +5,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col justify-center items-center bg-center bg-cover" style={{ backgroundImage: "url('/wood-panel-bg.jpg')" }}>
       <div className="flex flex-col items-center justify-center py-20">
         <Image
-          src="/logo.jpg"    // Use your uploaded file in the public folder!
+          src="/logo.jpeg"    // Use your uploaded file in the public folder!
           alt="GW Appliance & HVAC Logo"
           width={220}
           height={220}
